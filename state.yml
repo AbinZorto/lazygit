@@ -1,0 +1,17 @@
+lastupdatecheck: 0
+recentrepos:
+    - /Users/abin/Library/Application Support/lazygit
+    - /Users/abin/eeg-mlflow
+    - /Users/abin/Interview
+    - /Users/abin/cpppractice
+    - /Users/abin/.config/lumen
+    - /Users/abin/.config/nvim
+    - /Users/abin/LLMs-from-scratch
+    - /Users/abin/.config/kitty
+startuppopupversion: 5
+didshowhunkstaginghint: true
+lastversion: 0.55.1
+customcommandshistory:
+    - qa!
+    - :close
+hidecommandlog: false
